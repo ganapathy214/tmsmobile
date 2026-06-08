@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "47561435630",
+    "project_id": "react-native-project-ffc8b",
+    "storage_bucket": "react-native-project-ffc8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47561435630:android:1b565d4724a6a44c1946ff",
+        "android_client_info": {
+          "package_name": "android.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47561435630-hm5b4qr6tbrbnrcau5p4o4tbc67nfvic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1vpqaxYVa7WH6ahnpdcNPW1CGkheXUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47561435630-hm5b4qr6tbrbnrcau5p4o4tbc67nfvic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47561435630-uvlelc36v2o511o6r7aedpdqk18ms5b4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TMS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47561435630:android:c247293e4ab530871946ff",
+        "android_client_info": {
+          "package_name": "com.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47561435630-hm5b4qr6tbrbnrcau5p4o4tbc67nfvic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1vpqaxYVa7WH6ahnpdcNPW1CGkheXUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47561435630-hm5b4qr6tbrbnrcau5p4o4tbc67nfvic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47561435630-uvlelc36v2o511o6r7aedpdqk18ms5b4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TMS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47561435630:android:8895b5d3cba5d6da1946ff",
+        "android_client_info": {
+          "package_name": "com.tms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47561435630-hm5b4qr6tbrbnrcau5p4o4tbc67nfvic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz1vpqaxYVa7WH6ahnpdcNPW1CGkheXUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47561435630-hm5b4qr6tbrbnrcau5p4o4tbc67nfvic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47561435630-uvlelc36v2o511o6r7aedpdqk18ms5b4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TMS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
